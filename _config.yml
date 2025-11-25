@@ -1,0 +1,14 @@
+title: "Screen Nutrition"
+email: ""
+description: "Screen Nutrition website migrated to Jekyll"
+baseurl: "" # e.g. /repo for project pages
+url: "" # set to https://<user>.github.io/<repo> for GitHub Pages
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+
+exclude:
+  - page_captures
+  - .venv
+  - get-pip.py

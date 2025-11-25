@@ -1,0 +1,7 @@
+_site/
+.jekyll-cache/
+.sass-cache/
+.venv/
+page_captures/
+get-pip.py
+vendor/
