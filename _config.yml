@@ -1,8 +1,8 @@
 title: "Screen Nutrition"
 email: ""
 description: "Screen Nutrition website migrated to Jekyll"
-baseurl: "" # e.g. /repo for project pages
-url: "" # set to https://<user>.github.io/<repo> for GitHub Pages
+baseurl: "" # no subpath when using custom domain
+url: "https://screennutrition.org" # custom domain
 markdown: kramdown
 permalink: pretty
 plugins:
