@@ -5,7 +5,7 @@ original_url: "/mission"
 permalink: /mission/
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/635dbf8f2e183d318f1e7c9d/cb0b1dfc-6446-43d4-9565-2aff12e18320/unsplash-image-XJXWbfSo2f0.jpg)
+![](/assets/images/mission-balance.jpg)
 
 # Our Mission
 

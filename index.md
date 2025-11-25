@@ -5,7 +5,7 @@ original_url: "/home"
 permalink: /
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/635dbf8f2e183d318f1e7c9d/1668296494075-0SWQ5LRXCMTECEYZL33G/unsplash-image-WiONHd_zYI4.jpg)
+![](/assets/images/hero-home.jpg)
 
 #### Screen Nutrition
 
@@ -19,13 +19,13 @@ Screens are increasingly being used for many things. In fact, one might say that
 
 ### Introduction
 
-![](https://images.squarespace-cdn.com/content/v1/635dbf8f2e183d318f1e7c9d/31726bb4-ccaa-4720-ba9d-0e7dcc0a479c/maximalfocus-VT4rx775FT4-unsplash.jpg)
+![](/assets/images/intro-maximalfocus.jpg)
 
 ### Our Organization
 
 We are a nonprofit organization that is seeking to increase awareness about the balanced use of screens, devices, and other digital utilities: the power lies in the hand of the operator.
 
-![](https://images.squarespace-cdn.com/content/v1/635dbf8f2e183d318f1e7c9d/5483da3f-7662-4ce9-9e00-3dc12d75180c/unsplash-image-B_Z9jqassqE.jpg)
+![](/assets/images/org-balance.jpg)
 
 ### Take Action
 

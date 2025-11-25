@@ -5,19 +5,19 @@ original_url: "/art-jam"
 permalink: /art-jam/
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/635dbf8f2e183d318f1e7c9d/da222a13-0b52-4b18-9f68-8c734fb5eff2/Screenshot+2023-09-18+at+4.12.02+PM.png)
+![](/assets/images/art-jam-header.png)
 
 ## Art Jam Winners Have Been Announced!
 
-![](https://images.squarespace-cdn.com/content/v1/635dbf8f2e183d318f1e7c9d/afb50ded-ea20-4627-8292-a157196cf302/IMG_2315-2+-+Ramya+Narasimhan.jpg?format=original)
+![](/assets/images/art-jam-ramya.jpg)
 
 **1st Place**: Pragati Shamarayar
 
-![](https://images.squarespace-cdn.com/content/v1/635dbf8f2e183d318f1e7c9d/a2a91f0e-a639-4ed6-b51b-657d96daf336/screen+nutrition+-+Avigna+Ashokkumar.png?format=original)
+![](/assets/images/art-jam-aviga.png)
 
 **2nd place**: Avigna Ashokkumar
 
-![](https://images.squarespace-cdn.com/content/v1/635dbf8f2e183d318f1e7c9d/287dd154-d334-404d-a4ae-215ac0a61bcd/IMG_6049+-+shweta+gupta.jpeg?format=original)
+![](/assets/images/art-jam-shweta.jpeg)
 
 **3rd Place**: Devanshi Gupta
 
@@ -43,9 +43,9 @@ You can learn more about Screen Nutrition, and our ideas here at screennutrition
 
 With that said, here are a couple of examples:
 
-![](https://images.squarespace-cdn.com/content/v1/635dbf8f2e183d318f1e7c9d/bf5ed75c-a1d4-4013-bbbe-8c2f307c4269/signal-2023-09-18-165115_002.png?format=original)
+![](/assets/images/art-jam-signal-1.png)
 
-![](https://images.squarespace-cdn.com/content/v1/635dbf8f2e183d318f1e7c9d/7e1bfffd-0db7-4d86-8579-3ae72b8dfa8c/signal-2023-09-18-165115_003.png?format=original)
+![](/assets/images/art-jam-signal-2.png)
 
 ## Your turn!
 

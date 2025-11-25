@@ -4,30 +4,38 @@ title: Projects
 permalink: /projects/
 ---
 
-[![Neighborhood Device Collection Drive](./Projects — Screen Nutrition_files/Phone+Collection.jpeg)
+![Neighborhood Device Collection Drive](/assets/images/project-device-drive.jpg)
 
-### Neighborhood Device Collection Drive](https://keyboard-finch-92nf.squarespace.com/projects/device-drive)
-[![Screen Nutrition's Scrolling Time Guardian Extension](./Projects — Screen Nutrition_files/SN+EXT+Daily+Scrolling+Time+Guardian.png)
+#### Neighborhood Device Collection Drive
 
-### Screen Nutrition's Scrolling Time Guardian Extension](https://keyboard-finch-92nf.squarespace.com/projects/extension)
-[![Digital Diet Mobile App](./Projects — Screen Nutrition_files/DD-appstore.png)
+![Screen Nutrition's Scrolling Time Guardian Extension](/assets/images/project-extension.png)
 
-### Digital Diet Mobile App](https://keyboard-finch-92nf.squarespace.com/projects/digitaldiet)
-[![Medium.com: Screen Nutrition Labels](./Projects — Screen Nutrition_files/Screenshot+2023-11-08+at+5.11.07+PM.png)
+#### Screen Nutrition's Scrolling Time Guardian Extension
 
-### Medium.com: Screen Nutrition Labels](https://keyboard-finch-92nf.squarespace.com/projects/https/mediumcom/krishc59410/screen-nutrition-your-key-to-a-healthier-digital-lifestyle-part-i-1283978970af)
-[![Medium.com: Digital Metabolism Index](./Projects — Screen Nutrition_files/Screenshot+2023-11-08+at+5.11.54+PM.png)
+![Digital Diet Mobile App](/assets/images/project-digitaldiet.png)
 
-### Medium.com: Digital Metabolism Index](https://keyboard-finch-92nf.squarespace.com/projects/https/mediumcom/krishc59410/screen-nutrition-the-digital-metabolism-index-part-ii-23baefa1e572)
-[![Raising awareness - I](./Projects — Screen Nutrition_files/balanced+screen+nutrition+(1).jpg)
+#### Digital Diet Mobile App
 
-### Raising awareness - I](https://keyboard-finch-92nf.squarespace.com/projects/raising-awareness-via-infographics)
-[![Raising awareness-II](./Projects — Screen Nutrition_files/Aw--4.jpg)
+![Screen Nutrition Labels article](/assets/images/project-medium-labels.png)
 
-### Raising awareness-II](https://keyboard-finch-92nf.squarespace.com/projects/project-five-748cx-pwn5j)
-[![Screen Nutrition Open Collaboration Platform](./Projects — Screen Nutrition_files/_17703f36-0cf2-4aa4-b92e-7d8f4ba839dc.jpeg)
+#### Screen Nutrition Labels
 
-### Screen Nutrition Open Collaboration Platform](https://keyboard-finch-92nf.squarespace.com/projects/screen-nutrition-open-collaboration-platform)
-[![National Day Approved!](./Projects — Screen Nutrition_files/NDA-01.png)
+![Digital Metabolism Index article](/assets/images/project-medium-metabolism.png)
 
-### National Day Approved!](https://keyboard-finch-92nf.squarespace.com/projects/national-day-approved)
+#### Digital Metabolism Index
+
+![Raising awareness - I](/assets/images/project-awareness-1.jpg)
+
+#### Raising Awareness - I
+
+![Raising awareness - II](/assets/images/project-awareness-2.jpg)
+
+#### Raising Awareness - II
+
+![Screen Nutrition Open Collaboration Platform](/assets/images/project-collaboration.jpeg)
+
+#### Screen Nutrition Open Collaboration Platform
+
+![National Day Approved!](/assets/images/project-nda.png)
+
+#### National Day Approved!

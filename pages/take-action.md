@@ -5,7 +5,7 @@ original_url: "/take-action"
 permalink: /take-action/
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/635dbf8f2e183d318f1e7c9d/1669423118676-KVA8I5WB4YSZ28XIPH0B/unsplash-image-FAlYVtV1kRg.jpg)
+![](/assets/images/take-action-phone.jpg)
 
 # Take Action
 

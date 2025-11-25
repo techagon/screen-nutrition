@@ -5,7 +5,7 @@ original_url: "/letter-to-congress"
 permalink: /letter-to-congress/
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/635dbf8f2e183d318f1e7c9d/1697432554805-VW9Z4BON1R4M5N5ZZI6G/image-asset.jpeg)
+![](/assets/images/letter-image.jpeg)
 
 # AN OPEN LETTER TO CONGRESS
 

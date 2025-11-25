@@ -5,7 +5,7 @@ original_url: "/read-me"
 permalink: /read-me/
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/624b3c6d69f8ea5ba4177856/1649097854530-A8C9X33IUT375TUB94VW/Aro+Ha_0073.jpg)
+![](/assets/images/readme-aro-ha.jpg)
 
 Bailard Is Ideal For Your
 

@@ -5,7 +5,7 @@ original_url: "/partners"
 permalink: /partners/
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/624b3c6d69f8ea5ba4177856/1649097841181-AXF8BRC0HCBC8WPOJTPT/20140228_Trade+151_0067+%281%29.jpg)
+![](/assets/images/partners-trade.jpg)
 
 # Partners
 
